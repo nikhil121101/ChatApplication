@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159414675143",
+    "firebase_url": "https://guftguapp-b98dc.firebaseio.com",
+    "project_id": "guftguapp-b98dc",
+    "storage_bucket": "guftguapp-b98dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159414675143:android:d58b2b222e82a25e4980e2",
+        "android_client_info": {
+          "package_name": "com.example.guftgu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159414675143-rh3p736nguiuvipfso8pcbc5912sdegk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-XqNoIdzu7VjelZ75mtac0Orz8VTgRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159414675143-rh3p736nguiuvipfso8pcbc5912sdegk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
