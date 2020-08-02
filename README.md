@@ -1,16 +1,27 @@
-# guftgu
+#Application discription
 
-A new Flutter application.
+a messaging app where :
 
-## Getting Started
+- one can login with there email and password Or if not an existing user then can
+  sign-up with there email(valid) , password(at leat 8 character including a Capital letter character , 
+  a number and a special character) , and a unique username(min lenghth 4) 
 
-This project is a starting point for a Flutter application.
+- two user can search each other by there username
+  and send messages to one another 
 
-A few resources to get you started if this is your first Flutter project:
+- a fully fledged message log page to see the all chats
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+technology used -> 
+
+ - Flutter 1.17.3 ,  Dart 2.8.4
+
+ - firebase authentication to authenticate and add users and reset password facility too
+
+ - firebase database to store deatils of ech user registerd , ongoing chats between two node (chatRoom ID) and messages in that chat
+
+ - email validator to validate if the enterde email exist or not
+
+ - shared prefernces to store the data of currrent user(logged in but not logged out) so that one dont
+   need to re - login until user sign outs
