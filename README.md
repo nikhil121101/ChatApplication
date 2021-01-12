@@ -25,3 +25,6 @@ technology used ->
 
  - shared prefernces to store the data of currrent user(logged in but not logged out) so that one dont
    need to re - login until user sign outs
+
+# Screenshots
+<img src="ss1.jpg" width="325"/> <img src="ss3.jpg" width="325"/> <img src="ss2.jpg" width="325"/>
